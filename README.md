@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am Gautham Krishna<br><br>📊 Data Analyst<br>🎨 Designer<br>🎬 Film Director
+Hello, I am Gautham Krishna<br><br>📊 Business Analyst<br>🎨 Designer<br>🎬 Film Director
 
 
 ## 🌐 Socials:
